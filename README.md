@@ -6,8 +6,8 @@ Accessible Google Colab notebooks for Stable Diffusion Lora training, based on t
 | |🇬🇧 English|🇪🇸 Spanish|
 |:--|:-:|:-:|
 | ⭐ **Lora Trainer** | [![Open in Colab](https://raw.githubusercontent.com/uYouUs/kohya-colab/main/assets/colab-badge.svg)](https://colab.research.google.com/github/uYouUs/kohya-colab/blob/main/Lora_Trainer.ipynb) | [![Abrir en Colab](https://raw.githubusercontent.com/uYouUs/kohya-colab/main/assets/colab-badge-spanish.svg)](https://colab.research.google.com/github/uYouUs/kohya-colab/blob/main/Spanish_Lora_Trainer.ipynb) |
-| 🌟 **Simple XL Trainer** | [![Open in Colab](https://raw.githubusercontent.com/uYouUs/kohya-colab/main/assets/colab-badge.svg)](https://colab.research.google.com/github/uYouUs/kohya-colab/blob/main/Simple_XL_Trainer.ipynb) | - |
-| 🌟 **XL Lora Trainer** | [![Open in Colab](https://raw.githubusercontent.com/uYouUs/kohya-colab/main/assets/colab-badge.svg)](https://colab.research.google.com/github/uYouUs/kohya-colab/blob/main/Lora_Trainer_XL.ipynb) | - |
+| 🌟 **Simple XL Trainer** | [![Open in Colab](https://raw.githubusercontent.com/uYouUs/kohya-colab/main/assets/colab-badge.svg)](https://colab.research.google.com/github/uYouUs/kohya-colab/blob/main/Simple_XL_Trainer.ipynb) | [![Abrir en Colab](https://raw.githubusercontent.com/uYouUs/kohya-colab/main/assets/colab-badge-spanish.svg)](https://colab.research.google.com/github/uYouUs/kohya-colab/blob/main/Spanish_Simple_XL_Trainer.ipynb) |
+| 🌟 **XL Lora Trainer** | [![Open in Colab](https://raw.githubusercontent.com/uYouUs/kohya-colab/main/assets/colab-badge.svg)](https://colab.research.google.com/github/uYouUs/kohya-colab/blob/main/Lora_Trainer_XL.ipynb) | [![Abrir en Colab](https://raw.githubusercontent.com/uYouUs/kohya-colab/main/assets/colab-badge-spanish.svg)](https://colab.research.google.com/github/uYouUs/kohya-colab/blob/main/Spanish_Lora_Trainer_XL.ipynb) |
 | **Lora making Guide** | [Click Here](https://civitai.com/models/22530) | - |
 | **Stable Diffusion guide** | [Click Here](https://huggingface.co/hollowstrawberry/stable-diffusion-guide/blob/main/README.md#index) | [Click Aquí](https://huggingface.co/hollowstrawberry/stable-diffusion-guide/blob/main/spanish.md#index) |
 
@@ -29,6 +29,12 @@ Accessible Google Colab notebooks for Stable Diffusion Lora training, based on t
 * Offers most parameters while setting useful values behind the scenes to keep it simple.
 * Allows you to optionally define multiple folders for training.
 * Uses the latest technologies to load and train quickly.
+
+### 🌟 Simple XL Lora Trainer
+
+* Beginner friendly, only needs one or two inputs/changes to run.
+* One click to install and start training.
+* Offers automatically optimized settings which allow much faster training, often faster steps with higher batch size.
 
 &nbsp;
 
