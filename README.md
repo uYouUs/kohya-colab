@@ -37,5 +37,11 @@ Accessible Google Colab notebooks for Stable Diffusion Lora training, based on t
 * One click to install and start training.
 * Offers automatically optimized settings which allow much faster training, often faster steps with higher batch size.
 
+### 🌟 Advanced XL Trainer
+
+* Extra choice of lora types.
+* User customizable network arguments.
+* All the other features in the XL Trainer.
+
 &nbsp;
 
